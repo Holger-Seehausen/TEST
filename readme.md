@@ -7,3 +7,5 @@ first file
 noch ne änderung
 
 nach commit und push in MASTER
+
+Nach merge wieder im MASTER
